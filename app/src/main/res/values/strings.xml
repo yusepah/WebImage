@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings"></string>
+    <string name="app_name">WebImage</string>
+
+    <!-- Aplicacion -->
+    <string name="ver_img">Ver Imagen</string>
+    <string name="url">URL:</string>
+    <string name="guardar_como">Guardar Como:</string>
+    <string name="guardar_en">Guardar En:</string>
+    <string name="ext_priv">Ext. Privada</string>
+    <string name="ext_pub">Ext. Publica</string>
+    <string name="descargar">Descargar</string>
+
+    <!--Errores-->
+    <string name="error_url">Error en la dirección web</string>
+    <string name="error_io">URL mal formada</string>
+    <string name="error_extension">Las extensiones de archivo permitidas son .png, .jpg, .gif</string>
+    <string name="error_imagen">No se encuentra la imagen</string>
+    <string name="error_espacio">No hay suficiente espacio en memoria</string>
+    <string name="error_carga">La imagen no se puede leer</string>
+
+
+</resources>
